@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": 1787205816037,
+      "targetNumber": "182742436344037@lid",
+      "title": "saya sholat 1 menit lagi",
+      "time": "2026-08-20T06:04:36.037Z",
+      "notified": true
+    },
+    {
+      "id": 1787206105170,
+      "targetNumber": "36988979789982@lid",
+      "title": "sholat",
+      "time": "2026-08-20T06:09:25.170Z",
+      "notified": true
+    },
+    {
+      "id": 1787211682658,
+      "targetNumber": "99506372796655@lid",
+      "title": "bangun tidur",
+      "time": "2026-08-20T07:42:22.657Z",
+      "notified": true
+    }
+  ],
+  "userState": {}
+}

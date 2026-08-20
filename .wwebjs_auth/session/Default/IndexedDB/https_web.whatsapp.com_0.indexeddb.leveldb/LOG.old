@@ -1,0 +1,12 @@
+2026/08/20-16:12:32.731 12711b Creating DB /Users/muhammadibnuaqil/wa-assistant-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/08/20-16:12:32.734 12711b Reusing MANIFEST /Users/muhammadibnuaqil/wa-assistant-bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/20-16:12:46.578 12711c Level-0 table #5: started
+2026/08/20-16:12:46.604 12711c Level-0 table #5: 1027832 bytes OK
+2026/08/20-16:12:46.620 12711c Delete type=0 #3
+2026/08/20-16:12:47.133 12711c Level-0 table #7: started
+2026/08/20-16:12:47.153 12711c Level-0 table #7: 969124 bytes OK
+2026/08/20-16:12:47.157 12711c Delete type=0 #4
+2026/08/20-16:12:47.165 12711c Compacting 1@1 + 1@2 files
+2026/08/20-16:12:47.204 12711c Generated table #8@1: 25566 keys, 1003968 bytes
+2026/08/20-16:12:47.204 12711c Compacted 1@1 + 1@2 files => 1003968 bytes
+2026/08/20-16:12:47.206 12711c compacted to: files[ 0 0 1 0 0 0 0 ]
